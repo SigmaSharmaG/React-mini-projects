@@ -1,0 +1,13 @@
+https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=c9b63e8b2f857417e7a932a0b112a5b0&units=metric
+
+https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=2a6ca022dfee6ec72b26a56c6c204015&units=metric
+
+
+
+x = 1
+x += 1
+x = "Hello world"
+
+Hooks
+useState()
+useEffect()
