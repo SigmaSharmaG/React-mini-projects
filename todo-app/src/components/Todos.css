@@ -1,0 +1,25 @@
+.container{
+    /* width: 100%; */
+}
+.todo{
+    width: 100% ;
+    border: 1px solid white;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.bt-area{
+    width: 80px;
+    display: flex;
+}
+
+p{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    width: 20%;
+    /* background: yellow; */
+}
